@@ -1,0 +1,14 @@
+# Terraform cache
+**/.terraform/
+
+# State files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Variable files 
+*.tfvars
+*.tfvars.json
